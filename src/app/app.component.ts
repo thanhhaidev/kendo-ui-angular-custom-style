@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'kendo-ui-angular-custom-style';
+
+  onButtonClick() {
+    console.log('click')
+  }
 }

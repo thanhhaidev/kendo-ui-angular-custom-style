@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "kendo-ui-angular-custom-style"
+    }
+  },
+  "defaultProject": "kendo-ui-angular-custom-style",
+  "cli": {
+    "analytics": "2f5d9d4a-3521-4740-8a95-cec872429fa5"
+  }
 }
